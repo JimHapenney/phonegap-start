@@ -4,10 +4,10 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>Token Tap</name>
+	<name>Phone Gap Build Test/name>
 
 	<description>
-		Token Tap Description
+		Description
 	</description>
 
 	<author href="http://tokentap.com"
